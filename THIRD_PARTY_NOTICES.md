@@ -4,7 +4,7 @@ The following folders contain skills copied from upstream projects. Each contain
 
 | Skills | Upstream | License |
 | --- | --- | --- |
-| `skills/ios-code-audit` | [jazzychad/ios-code-audit](https://github.com/jazzychad/ios-code-audit) | MIT, Copyright (c) 2026 jazzychad |
+| `skills/web-clone` | [Jane-xiaoer/claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone) | MIT, Copyright (c) 2026 Jane (@xiaoerzhan / 小耳); English translation and portability/privacy edits are noted in the skill README |\n| `skills/ios-code-audit` | [jazzychad/ios-code-audit](https://github.com/jazzychad/ios-code-audit) | MIT, Copyright (c) 2026 jazzychad |
 | `skills/emil-design-eng`, `animate`, `review-animations`, `improve-animations`, `find-animation-opportunities`, `animation-vocabulary`, `write-swift` | [emilkowalski/skills](https://github.com/emilkowalski/skills) | MIT, Copyright (c) 2026 Emil Kowalski |
 | `skills/ponytail`, `ponytail-audit`, `ponytail-review` | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | MIT, Copyright (c) 2026 DietrichGebert |
 

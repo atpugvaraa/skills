@@ -19,7 +19,7 @@ Use `--list` to inspect available skills first, or pass different `--skill` name
 
 ## Collection
 
-- **Swift and Apple platforms:** `native-swift-performance`, `write-swift`, `ios-code-audit`
+- **Web and reverse engineering:** `web-clone`\n- **Swift and Apple platforms:** `native-swift-performance`, `write-swift`, `ios-code-audit`
 - **Animation and design craft:** `emil-design-eng`, `animate`, `review-animations`, `improve-animations`, `find-animation-opportunities`, `animation-vocabulary`
 - **Workflow and code quality:** `i-have-adhd`, `ponytail`, `ponytail-audit`, `ponytail-review`
 
